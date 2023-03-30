@@ -1,1 +1,1 @@
-# game--licker-js-
+# game-сlicker-js
